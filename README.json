@@ -62,7 +62,7 @@
             "last_commit": "2026-08-12T20:26:38Z",
             "owner": "gokcehan",
             "repo": "lf",
-            "stars": 9463
+            "stars": 9464
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2026-08-08T19:49:45Z",
             "owner": "aristocratos",
             "repo": "btop",
-            "stars": 33959
+            "stars": 33961
           }
         },
         {
@@ -130,7 +130,7 @@
             "last_commit": "2026-08-11T14:44:46Z",
             "owner": "junegunn",
             "repo": "fzf",
-            "stars": 82535
+            "stars": 82541
           }
         },
         {
@@ -144,7 +144,7 @@
             "last_commit": "2026-08-04T13:59:44Z",
             "owner": "BurntSushi",
             "repo": "ripgrep",
-            "stars": 67266
+            "stars": 67279
           }
         },
         {
@@ -158,7 +158,7 @@
             "last_commit": "2026-08-11T14:39:20Z",
             "owner": "sharkdp",
             "repo": "bat",
-            "stars": 60219
+            "stars": 60221
           }
         },
         {
@@ -172,7 +172,7 @@
             "last_commit": "2026-08-12T10:26:59Z",
             "owner": "tmux",
             "repo": "tmux",
-            "stars": 48581
+            "stars": 48586
           }
         },
         {
@@ -186,7 +186,7 @@
             "last_commit": "2026-08-11T17:42:55Z",
             "owner": "sharkdp",
             "repo": "fd",
-            "stars": 44057
+            "stars": 44061
           }
         },
         {
@@ -200,7 +200,7 @@
             "last_commit": "2026-08-10T18:53:37Z",
             "owner": "ajeetdsouza",
             "repo": "zoxide",
-            "stars": 38628
+            "stars": 38630
           }
         },
         {
@@ -214,7 +214,7 @@
             "last_commit": "2026-08-13T03:02:28Z",
             "owner": "fastfetch-cli",
             "repo": "fastfetch",
-            "stars": 24179
+            "stars": 24180
           }
         },
         {
@@ -228,7 +228,7 @@
             "last_commit": "2026-08-06T19:53:22Z",
             "owner": "eza-community",
             "repo": "eza",
-            "stars": 22914
+            "stars": 22916
           }
         }
       ],
@@ -241,7 +241,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T03:56:54.153Z",
+    "last_updated": "2026-08-13T08:03:05.918Z",
     "original_repository": "raffaelschneider/awesome-openbsd-desktop",
     "original_repository_sha": "ce7172df9c0b0419fd79e7b124545c5a779fe14d",
     "enhanced_repository": "enhansome/enhansome-openbsd-desktop",
