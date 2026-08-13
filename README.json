@@ -1,0 +1,251 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "bspwm",
+          "description": "A tiling window manager based on binary space partitioning.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-19T20:00:14Z",
+            "owner": "baskerville",
+            "repo": "bspwm",
+            "stars": 8302
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "spectrwm",
+          "description": "A small dynamic tiling window manager for X11.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-20T10:14:42Z",
+            "owner": "conformal",
+            "repo": "spectrwm",
+            "stars": 1398
+          }
+        }
+      ],
+      "title": "Window Managers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "nnn",
+          "description": "A tiny, lightning fast terminal file manager.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-11T20:37:04Z",
+            "owner": "jarun",
+            "repo": "nnn",
+            "stars": 21781
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lf",
+          "description": "A terminal file manager written in Go, inspired by ranger.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T20:26:38Z",
+            "owner": "gokcehan",
+            "repo": "lf",
+            "stars": 9463
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PCManFM",
+          "description": "A lightweight file manager with tabbed browsing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-02-03T11:03:38Z",
+            "owner": "lxde",
+            "repo": "pcmanfm",
+            "stars": 248
+          }
+        }
+      ],
+      "title": "File Managers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "btop",
+          "description": "A modern resource monitor with a sleek interface.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-08T19:49:45Z",
+            "owner": "aristocratos",
+            "repo": "btop",
+            "stars": 33959
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bandwhich",
+          "description": "Terminal bandwidth utilization tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-01T01:34:33Z",
+            "owner": "imsnif",
+            "repo": "bandwhich",
+            "stars": 11896
+          }
+        }
+      ],
+      "title": "System Monitoring"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "fzf",
+          "description": "A command-line fuzzy finder.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-11T14:44:46Z",
+            "owner": "junegunn",
+            "repo": "fzf",
+            "stars": 82535
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ripgrep",
+          "description": "A fast line-oriented search tool (rg).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-04T13:59:44Z",
+            "owner": "BurntSushi",
+            "repo": "ripgrep",
+            "stars": 67266
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bat",
+          "description": "A cat clone with syntax highlighting.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-11T14:39:20Z",
+            "owner": "sharkdp",
+            "repo": "bat",
+            "stars": 60219
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux",
+          "description": "A terminal multiplexer for managing multiple terminal sessions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T10:26:59Z",
+            "owner": "tmux",
+            "repo": "tmux",
+            "stars": 48581
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fd",
+          "description": "A simple, fast alternative to find.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-11T17:42:55Z",
+            "owner": "sharkdp",
+            "repo": "fd",
+            "stars": 44057
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zoxide",
+          "description": "A smarter cd command.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-10T18:53:37Z",
+            "owner": "ajeetdsouza",
+            "repo": "zoxide",
+            "stars": 38628
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fastfetch",
+          "description": "A fast system information tool (replaces archived neofetch).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T03:02:28Z",
+            "owner": "fastfetch-cli",
+            "repo": "fastfetch",
+            "stars": 24179
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eza",
+          "description": "A modern replacement for ls.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-06T19:53:22Z",
+            "owner": "eza-community",
+            "repo": "eza",
+            "stars": 22914
+          }
+        }
+      ],
+      "title": "Miscellaneous Tools"
+    },
+    {
+      "description": "Contributions are welcome! Please read the contribution guidelines first.\nFeel free to fork this repository, add your contributions, and send a pull request to expand the Awesome OpenBSD Desktop list!",
+      "items": [],
+      "title": "Contributing"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T03:56:54.153Z",
+    "original_repository": "raffaelschneider/awesome-openbsd-desktop",
+    "original_repository_sha": "ce7172df9c0b0419fd79e7b124545c5a779fe14d",
+    "enhanced_repository": "enhansome/enhansome-openbsd-desktop",
+    "enhanced_repository_description": null,
+    "title": "Awesome OpenBSD Desktop 🐡 with stars"
+  }
+}
