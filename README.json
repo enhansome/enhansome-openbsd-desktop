@@ -14,7 +14,7 @@
             "last_commit": "2026-06-19T20:00:14Z",
             "owner": "baskerville",
             "repo": "bspwm",
-            "stars": 8302
+            "stars": 8301
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-07-20T10:14:42Z",
             "owner": "conformal",
             "repo": "spectrwm",
-            "stars": 1400
+            "stars": 1401
           }
         }
       ],
@@ -45,10 +45,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-11T20:37:04Z",
+            "last_commit": "2026-08-15T05:46:17Z",
             "owner": "jarun",
             "repo": "nnn",
-            "stars": 21781
+            "stars": 21788
           }
         },
         {
@@ -59,10 +59,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T23:43:40Z",
+            "last_commit": "2026-08-15T02:07:20Z",
             "owner": "gokcehan",
             "repo": "lf",
-            "stars": 9464
+            "stars": 9467
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2026-08-08T19:49:45Z",
             "owner": "aristocratos",
             "repo": "btop",
-            "stars": 33979
+            "stars": 33989
           }
         },
         {
@@ -110,7 +110,7 @@
             "last_commit": "2026-08-01T01:34:33Z",
             "owner": "imsnif",
             "repo": "bandwhich",
-            "stars": 11896
+            "stars": 11897
           }
         }
       ],
@@ -127,10 +127,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-11T14:44:46Z",
+            "last_commit": "2026-08-14T10:16:53Z",
             "owner": "junegunn",
             "repo": "fzf",
-            "stars": 82560
+            "stars": 82528
           }
         },
         {
@@ -144,7 +144,7 @@
             "last_commit": "2026-08-04T13:59:44Z",
             "owner": "BurntSushi",
             "repo": "ripgrep",
-            "stars": 67314
+            "stars": 67290
           }
         },
         {
@@ -158,7 +158,7 @@
             "last_commit": "2026-08-11T14:39:20Z",
             "owner": "sharkdp",
             "repo": "bat",
-            "stars": 60234
+            "stars": 60183
           }
         },
         {
@@ -172,7 +172,7 @@
             "last_commit": "2026-08-12T10:26:59Z",
             "owner": "tmux",
             "repo": "tmux",
-            "stars": 48614
+            "stars": 48627
           }
         },
         {
@@ -186,7 +186,7 @@
             "last_commit": "2026-08-11T17:42:55Z",
             "owner": "sharkdp",
             "repo": "fd",
-            "stars": 44077
+            "stars": 44088
           }
         },
         {
@@ -200,7 +200,7 @@
             "last_commit": "2026-08-10T18:53:37Z",
             "owner": "ajeetdsouza",
             "repo": "zoxide",
-            "stars": 38643
+            "stars": 38656
           }
         },
         {
@@ -211,10 +211,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-14T06:56:43Z",
+            "last_commit": "2026-08-15T01:15:04Z",
             "owner": "fastfetch-cli",
             "repo": "fastfetch",
-            "stars": 24197
+            "stars": 24205
           }
         },
         {
@@ -228,7 +228,7 @@
             "last_commit": "2026-08-06T19:53:22Z",
             "owner": "eza-community",
             "repo": "eza",
-            "stars": 22924
+            "stars": 22936
           }
         }
       ],
@@ -241,7 +241,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T07:59:13.360Z",
+    "last_updated": "2026-08-15T07:08:31.298Z",
     "original_repository": "raffaelschneider/awesome-openbsd-desktop",
     "original_repository_sha": "ce7172df9c0b0419fd79e7b124545c5a779fe14d",
     "enhanced_repository": "enhansome/enhansome-openbsd-desktop",
