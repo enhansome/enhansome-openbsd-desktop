@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5213091,
             "language": "C",
             "last_commit": "2026-06-19T20:00:14Z",
             "owner": "baskerville",
             "repo": "bspwm",
-            "stars": 8304
+            "stars": 8305
           }
         },
         {
@@ -24,18 +25,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10093477,
             "language": "C",
             "last_commit": "2026-07-20T10:14:42Z",
             "owner": "conformal",
             "repo": "spectrwm",
-            "stars": 1402
+            "stars": 1404
           }
         }
       ],
       "title": "Window Managers"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -44,11 +46,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 66150122,
             "language": "C",
             "last_commit": "2026-08-17T16:17:54Z",
             "owner": "jarun",
             "repo": "nnn",
-            "stars": 21805
+            "stars": 21816
           }
         },
         {
@@ -58,6 +61,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 65616765,
             "language": "Go",
             "last_commit": "2026-08-15T02:07:20Z",
             "owner": "gokcehan",
@@ -72,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 319790925,
             "language": "C",
             "last_commit": "2026-02-03T11:03:38Z",
             "owner": "lxde",
@@ -83,7 +88,7 @@
       "title": "File Managers"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -92,11 +97,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 365005377,
             "language": "C++",
             "last_commit": "2026-08-08T19:49:45Z",
             "owner": "aristocratos",
             "repo": "btop",
-            "stars": 34060
+            "stars": 34082
           }
         },
         {
@@ -106,18 +112,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 206874323,
             "language": "Rust",
             "last_commit": "2026-08-01T01:34:33Z",
             "owner": "imsnif",
             "repo": "bandwhich",
-            "stars": 11903
+            "stars": 11904
           }
         }
       ],
       "title": "System Monitoring"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -126,11 +133,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13807606,
             "language": "Go",
             "last_commit": "2026-08-17T03:11:26Z",
             "owner": "junegunn",
             "repo": "fzf",
-            "stars": 82556
+            "stars": 82576
           }
         },
         {
@@ -140,11 +148,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 53631945,
             "language": "Rust",
             "last_commit": "2026-08-04T13:59:44Z",
             "owner": "BurntSushi",
             "repo": "ripgrep",
-            "stars": 67361
+            "stars": 67389
           }
         },
         {
@@ -154,11 +163,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 130464961,
             "language": "Rust",
             "last_commit": "2026-08-11T14:39:20Z",
             "owner": "sharkdp",
             "repo": "bat",
-            "stars": 60196
+            "stars": 60210
           }
         },
         {
@@ -168,11 +178,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36836475,
             "language": "C",
-            "last_commit": "2026-08-17T23:38:13Z",
+            "last_commit": "2026-08-18T23:04:28Z",
             "owner": "tmux",
             "repo": "tmux",
-            "stars": 48690
+            "stars": 48713
           }
         },
         {
@@ -182,11 +193,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 90793418,
             "language": "Rust",
             "last_commit": "2026-08-11T17:42:55Z",
             "owner": "sharkdp",
             "repo": "fd",
-            "stars": 44118
+            "stars": 44131
           }
         },
         {
@@ -196,11 +208,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 245166720,
             "language": "Rust",
-            "last_commit": "2026-08-17T19:14:18Z",
+            "last_commit": "2026-08-19T00:57:29Z",
             "owner": "ajeetdsouza",
             "repo": "zoxide",
-            "stars": 38694
+            "stars": 38717
           }
         },
         {
@@ -210,11 +223,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 340181518,
             "language": "C",
-            "last_commit": "2026-08-18T01:14:39Z",
+            "last_commit": "2026-08-19T06:19:26Z",
             "owner": "fastfetch-cli",
             "repo": "fastfetch",
-            "stars": 24253
+            "stars": 24268
           }
         },
         {
@@ -224,24 +238,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 671832156,
             "language": "Rust",
             "last_commit": "2026-08-06T19:53:22Z",
             "owner": "eza-community",
             "repo": "eza",
-            "stars": 22960
+            "stars": 22966
           }
         }
       ],
       "title": "Miscellaneous Tools"
-    },
-    {
-      "description": "Contributions are welcome! Please read the contribution guidelines first.\nFeel free to fork this repository, add your contributions, and send a pull request to expand the Awesome OpenBSD Desktop list!",
-      "items": [],
-      "title": "Contributing"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T07:22:30.342Z",
+    "last_updated": "2026-08-19T07:22:54.993Z",
     "original_repository": "raffaelschneider/awesome-openbsd-desktop",
     "original_repository_sha": "ce7172df9c0b0419fd79e7b124545c5a779fe14d",
     "enhanced_repository": "enhansome/enhansome-openbsd-desktop",
