@@ -117,7 +117,7 @@ A curated list of awesome applications, software, tools, and resources for using
 
 ## System Monitoring
 
-* [btop](https://github.com/aristocratos/btop) ⭐ 34,202 | 🐛 528 | 🌐 C++ | 📅 2026-08-23 - A modern resource monitor with a sleek interface.
+* [btop](https://github.com/aristocratos/btop) ⭐ 34,203 | 🐛 529 | 🌐 C++ | 📅 2026-08-23 - A modern resource monitor with a sleek interface.
 * [bandwhich](https://github.com/imsnif/bandwhich) ⭐ 11,918 | 🐛 55 | 🌐 Rust | 📅 2026-08-01 - Terminal bandwidth utilization tool.
 * [top](https://man.openbsd.org/top) - Display and update information about the top CPU processes, included in base.
 * [systat](https://man.openbsd.org/systat) - Display system statistics, included in base.
@@ -139,14 +139,14 @@ A curated list of awesome applications, software, tools, and resources for using
 
 ## Miscellaneous Tools
 
-* [fzf](https://github.com/junegunn/fzf) ⭐ 82,640 | 🐛 327 | 🌐 Go | 📅 2026-08-24 - A command-line fuzzy finder.
-* [ripgrep](https://github.com/BurntSushi/ripgrep) ⭐ 67,575 | 🐛 182 | 🌐 Rust | 📅 2026-08-04 - A fast line-oriented search tool (rg).
-* [bat](https://github.com/sharkdp/bat) ⭐ 60,247 | 🐛 424 | 🌐 Rust | 📅 2026-08-11 - A cat clone with syntax highlighting.
-* [tmux](https://github.com/tmux/tmux/wiki) ⭐ 48,800 | 🐛 28 | 🌐 C | 📅 2026-08-25 - A terminal multiplexer for managing multiple terminal sessions.
+* [fzf](https://github.com/junegunn/fzf) ⭐ 82,641 | 🐛 327 | 🌐 Go | 📅 2026-08-24 - A command-line fuzzy finder.
+* [ripgrep](https://github.com/BurntSushi/ripgrep) ⭐ 67,577 | 🐛 182 | 🌐 Rust | 📅 2026-08-04 - A fast line-oriented search tool (rg).
+* [bat](https://github.com/sharkdp/bat) ⭐ 60,248 | 🐛 424 | 🌐 Rust | 📅 2026-08-11 - A cat clone with syntax highlighting.
+* [tmux](https://github.com/tmux/tmux/wiki) ⭐ 48,801 | 🐛 28 | 🌐 C | 📅 2026-08-25 - A terminal multiplexer for managing multiple terminal sessions.
 * [fd](https://github.com/sharkdp/fd) ⭐ 44,192 | 🐛 189 | 🌐 Rust | 📅 2026-08-11 - A simple, fast alternative to find.
 * [zoxide](https://github.com/ajeetdsouza/zoxide) ⭐ 38,819 | 🐛 136 | 🌐 Rust | 📅 2026-08-24 - A smarter cd command.
 * [fastfetch](https://github.com/fastfetch-cli/fastfetch) ⭐ 24,360 | 🐛 77 | 🌐 C | 📅 2026-08-25 - A fast system information tool (replaces archived neofetch).
-* [eza](https://github.com/eza-community/eza) ⭐ 23,028 | 🐛 437 | 🌐 Rust | 📅 2026-08-06 - A modern replacement for ls.
+* [eza](https://github.com/eza-community/eza) ⭐ 23,029 | 🐛 437 | 🌐 Rust | 📅 2026-08-06 - A modern replacement for ls.
 * [starship](https://starship.rs/) - A minimal, fast, customizable shell prompt.
 
 ## Desktop Setup Guides

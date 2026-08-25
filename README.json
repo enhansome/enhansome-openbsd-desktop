@@ -102,7 +102,7 @@
             "last_commit": "2026-08-23T08:42:34Z",
             "owner": "aristocratos",
             "repo": "btop",
-            "stars": 34202
+            "stars": 34203
           }
         },
         {
@@ -138,7 +138,7 @@
             "last_commit": "2026-08-24T01:02:41Z",
             "owner": "junegunn",
             "repo": "fzf",
-            "stars": 82640
+            "stars": 82641
           }
         },
         {
@@ -153,7 +153,7 @@
             "last_commit": "2026-08-04T13:59:44Z",
             "owner": "BurntSushi",
             "repo": "ripgrep",
-            "stars": 67575
+            "stars": 67577
           }
         },
         {
@@ -168,7 +168,7 @@
             "last_commit": "2026-08-11T14:39:20Z",
             "owner": "sharkdp",
             "repo": "bat",
-            "stars": 60247
+            "stars": 60248
           }
         },
         {
@@ -180,10 +180,10 @@
             "archived": false,
             "id": 36836475,
             "language": "C",
-            "last_commit": "2026-08-25T01:46:57Z",
+            "last_commit": "2026-08-25T07:08:32Z",
             "owner": "tmux",
             "repo": "tmux",
-            "stars": 48800
+            "stars": 48801
           }
         },
         {
@@ -243,7 +243,7 @@
             "last_commit": "2026-08-06T19:53:22Z",
             "owner": "eza-community",
             "repo": "eza",
-            "stars": 23028
+            "stars": 23029
           }
         }
       ],
@@ -251,7 +251,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:32:28.489Z",
+    "last_updated": "2026-08-25T07:27:27.183Z",
     "original_repository": "raffaelschneider/awesome-openbsd-desktop",
     "original_repository_id": 716654080,
     "original_repository_sha": "ce7172df9c0b0419fd79e7b124545c5a779fe14d",
