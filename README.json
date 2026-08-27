@@ -15,7 +15,7 @@
             "last_commit": "2026-06-19T20:00:14Z",
             "owner": "baskerville",
             "repo": "bspwm",
-            "stars": 8306
+            "stars": 8309
           }
         },
         {
@@ -48,10 +48,10 @@
             "archived": false,
             "id": 66150122,
             "language": "C",
-            "last_commit": "2026-08-25T16:33:34Z",
+            "last_commit": "2026-08-26T22:09:22Z",
             "owner": "jarun",
             "repo": "nnn",
-            "stars": 21830
+            "stars": 21835
           }
         },
         {
@@ -66,7 +66,7 @@
             "last_commit": "2026-08-25T00:37:27Z",
             "owner": "gokcehan",
             "repo": "lf",
-            "stars": 9476
+            "stars": 9477
           }
         },
         {
@@ -99,10 +99,10 @@
             "archived": false,
             "id": 365005377,
             "language": "C++",
-            "last_commit": "2026-08-26T05:54:20Z",
+            "last_commit": "2026-08-26T19:36:59Z",
             "owner": "aristocratos",
             "repo": "btop",
-            "stars": 34221
+            "stars": 34258
           }
         },
         {
@@ -117,7 +117,7 @@
             "last_commit": "2026-08-01T01:34:33Z",
             "owner": "imsnif",
             "repo": "bandwhich",
-            "stars": 11920
+            "stars": 11925
           }
         }
       ],
@@ -138,7 +138,7 @@
             "last_commit": "2026-08-26T00:07:09Z",
             "owner": "junegunn",
             "repo": "fzf",
-            "stars": 82651
+            "stars": 82675
           }
         },
         {
@@ -153,7 +153,7 @@
             "last_commit": "2026-08-04T13:59:44Z",
             "owner": "BurntSushi",
             "repo": "ripgrep",
-            "stars": 67598
+            "stars": 67631
           }
         },
         {
@@ -168,7 +168,7 @@
             "last_commit": "2026-08-11T14:39:20Z",
             "owner": "sharkdp",
             "repo": "bat",
-            "stars": 60261
+            "stars": 60276
           }
         },
         {
@@ -183,7 +183,7 @@
             "last_commit": "2026-08-25T21:31:29Z",
             "owner": "tmux",
             "repo": "tmux",
-            "stars": 48826
+            "stars": 48859
           }
         },
         {
@@ -195,10 +195,10 @@
             "archived": false,
             "id": 90793418,
             "language": "Rust",
-            "last_commit": "2026-08-11T17:42:55Z",
+            "last_commit": "2026-08-26T15:54:02Z",
             "owner": "sharkdp",
             "repo": "fd",
-            "stars": 44205
+            "stars": 44213
           }
         },
         {
@@ -213,7 +213,7 @@
             "last_commit": "2026-08-24T18:44:27Z",
             "owner": "ajeetdsouza",
             "repo": "zoxide",
-            "stars": 38855
+            "stars": 38922
           }
         },
         {
@@ -225,10 +225,10 @@
             "archived": false,
             "id": 340181518,
             "language": "C",
-            "last_commit": "2026-08-25T15:28:21Z",
+            "last_commit": "2026-08-27T07:37:16Z",
             "owner": "fastfetch-cli",
             "repo": "fastfetch",
-            "stars": 24377
+            "stars": 24401
           }
         },
         {
@@ -243,7 +243,7 @@
             "last_commit": "2026-08-06T19:53:22Z",
             "owner": "eza-community",
             "repo": "eza",
-            "stars": 23040
+            "stars": 23055
           }
         }
       ],
@@ -251,9 +251,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T07:28:55.003Z",
-    "original_repository": "raffaelschneider/awesome-openbsd-desktop",
-    "original_repository_id": 716654080,
+    "last_updated": "2026-08-27T12:02:03.755Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 716654080,
+      "language": null,
+      "last_commit": "2026-01-02T07:20:30Z",
+      "owner": "raffaelschneider",
+      "repo": "awesome-openbsd-desktop",
+      "stars": 96
+    },
     "original_repository_sha": "ce7172df9c0b0419fd79e7b124545c5a779fe14d",
     "enhanced_repository": "enhansome/enhansome-openbsd-desktop",
     "enhanced_repository_description": null,
