@@ -15,8 +15,9 @@
             "last_commit": "2026-06-19T20:00:14Z",
             "owner": "baskerville",
             "repo": "bspwm",
-            "stars": 8310
-          }
+            "stars": 8309
+          },
+          "first_seen": "2026-08-28T18:58:29.222Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "conformal",
             "repo": "spectrwm",
             "stars": 1405
-          }
+          },
+          "first_seen": "2026-08-28T18:58:29.222Z"
         }
       ],
       "title": "Window Managers"
@@ -51,8 +53,9 @@
             "last_commit": "2026-08-26T22:09:22Z",
             "owner": "jarun",
             "repo": "nnn",
-            "stars": 21837
-          }
+            "stars": 21841
+          },
+          "first_seen": "2026-08-28T18:58:29.222Z"
         },
         {
           "node_type": "item",
@@ -66,8 +69,9 @@
             "last_commit": "2026-08-25T00:37:27Z",
             "owner": "gokcehan",
             "repo": "lf",
-            "stars": 9478
-          }
+            "stars": 9480
+          },
+          "first_seen": "2026-08-28T18:58:29.222Z"
         },
         {
           "node_type": "item",
@@ -82,7 +86,8 @@
             "owner": "lxde",
             "repo": "pcmanfm",
             "stars": 250
-          }
+          },
+          "first_seen": "2026-08-28T18:58:29.222Z"
         }
       ],
       "title": "File Managers"
@@ -102,8 +107,9 @@
             "last_commit": "2026-08-26T19:36:59Z",
             "owner": "aristocratos",
             "repo": "btop",
-            "stars": 34260
-          }
+            "stars": 34278
+          },
+          "first_seen": "2026-08-28T18:58:29.222Z"
         },
         {
           "node_type": "item",
@@ -117,8 +123,9 @@
             "last_commit": "2026-08-01T01:34:33Z",
             "owner": "imsnif",
             "repo": "bandwhich",
-            "stars": 11924
-          }
+            "stars": 11927
+          },
+          "first_seen": "2026-08-28T18:58:29.222Z"
         }
       ],
       "title": "System Monitoring"
@@ -138,8 +145,9 @@
             "last_commit": "2026-08-26T00:07:09Z",
             "owner": "junegunn",
             "repo": "fzf",
-            "stars": 82681
-          }
+            "stars": 82699
+          },
+          "first_seen": "2026-08-28T18:58:29.222Z"
         },
         {
           "node_type": "item",
@@ -153,8 +161,9 @@
             "last_commit": "2026-08-04T13:59:44Z",
             "owner": "BurntSushi",
             "repo": "ripgrep",
-            "stars": 67639
-          }
+            "stars": 67673
+          },
+          "first_seen": "2026-08-28T18:58:29.222Z"
         },
         {
           "node_type": "item",
@@ -168,8 +177,9 @@
             "last_commit": "2026-08-11T14:39:20Z",
             "owner": "sharkdp",
             "repo": "bat",
-            "stars": 60277
-          }
+            "stars": 60286
+          },
+          "first_seen": "2026-08-28T18:58:29.222Z"
         },
         {
           "node_type": "item",
@@ -180,11 +190,12 @@
             "archived": false,
             "id": 36836475,
             "language": "C",
-            "last_commit": "2026-08-25T21:31:29Z",
+            "last_commit": "2026-08-28T10:46:45Z",
             "owner": "tmux",
             "repo": "tmux",
-            "stars": 48863
-          }
+            "stars": 48879
+          },
+          "first_seen": "2026-08-28T18:58:29.222Z"
         },
         {
           "node_type": "item",
@@ -195,11 +206,12 @@
             "archived": false,
             "id": 90793418,
             "language": "Rust",
-            "last_commit": "2026-08-26T15:54:02Z",
+            "last_commit": "2026-08-28T05:52:24Z",
             "owner": "sharkdp",
             "repo": "fd",
-            "stars": 44218
-          }
+            "stars": 44234
+          },
+          "first_seen": "2026-08-28T18:58:29.222Z"
         },
         {
           "node_type": "item",
@@ -213,8 +225,9 @@
             "last_commit": "2026-08-24T18:44:27Z",
             "owner": "ajeetdsouza",
             "repo": "zoxide",
-            "stars": 38942
-          }
+            "stars": 38988
+          },
+          "first_seen": "2026-08-28T18:58:29.222Z"
         },
         {
           "node_type": "item",
@@ -225,11 +238,12 @@
             "archived": false,
             "id": 340181518,
             "language": "C",
-            "last_commit": "2026-08-27T07:37:16Z",
+            "last_commit": "2026-08-28T17:12:58Z",
             "owner": "fastfetch-cli",
             "repo": "fastfetch",
-            "stars": 24407
-          }
+            "stars": 24423
+          },
+          "first_seen": "2026-08-28T18:58:29.222Z"
         },
         {
           "node_type": "item",
@@ -243,15 +257,16 @@
             "last_commit": "2026-08-06T19:53:22Z",
             "owner": "eza-community",
             "repo": "eza",
-            "stars": 23057
-          }
+            "stars": 23069
+          },
+          "first_seen": "2026-08-28T18:58:29.222Z"
         }
       ],
       "title": "Miscellaneous Tools"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T17:52:25.247Z",
+    "last_updated": "2026-08-28T18:58:29.222Z",
     "original_repository_info": {
       "archived": false,
       "id": 716654080,
