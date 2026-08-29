@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tiling window manager based on binary space partitioning",
+            "homepage": null,
             "id": 5213091,
             "language": "C",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-06-19T20:00:14Z",
+            "open_issues": 348,
             "owner": "baskerville",
             "repo": "bspwm",
-            "stars": 8309
+            "stars": 8309,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:58:29.222Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A small dynamic tiling window manager for X11.",
+            "homepage": null,
             "id": 10093477,
             "language": "C",
+            "license": "ISC",
             "last_commit": "2026-07-20T10:14:42Z",
+            "open_issues": 33,
             "owner": "conformal",
             "repo": "spectrwm",
-            "stars": 1405
+            "stars": 1405,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:58:29.222Z"
         }
@@ -48,12 +58,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "n³ The unorthodox terminal file manager",
+            "homepage": null,
             "id": 66150122,
             "language": "C",
-            "last_commit": "2026-08-26T22:09:22Z",
+            "license": "BSD-2-Clause",
+            "last_commit": "2026-08-29T00:23:16Z",
+            "open_issues": 4,
             "owner": "jarun",
             "repo": "nnn",
-            "stars": 21841
+            "stars": 21842,
+            "topics": [
+              "android",
+              "batch-rename",
+              "c",
+              "cli",
+              "command-line",
+              "developer-tools",
+              "disk-usage",
+              "file-manager",
+              "file-preview",
+              "file-search",
+              "filesystem",
+              "launcher",
+              "multi-platform",
+              "ncurses",
+              "productivity",
+              "raspberry-pi",
+              "terminal",
+              "tui",
+              "vim",
+              "wsl"
+            ]
           },
           "first_seen": "2026-08-28T18:58:29.222Z"
         },
@@ -64,12 +100,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Terminal file manager",
+            "homepage": null,
             "id": 65616765,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-25T00:37:27Z",
+            "open_issues": 81,
             "owner": "gokcehan",
             "repo": "lf",
-            "stars": 9480
+            "stars": 9481,
+            "topics": [
+              "file-manager",
+              "terminal"
+            ]
           },
           "first_seen": "2026-08-28T18:58:29.222Z"
         },
@@ -80,12 +124,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Extremely fast and lightweight file manager",
+            "homepage": null,
             "id": 319790925,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2026-02-03T11:03:38Z",
+            "open_issues": 35,
             "owner": "lxde",
             "repo": "pcmanfm",
-            "stars": 250
+            "stars": 251,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:58:29.222Z"
         }
@@ -102,12 +151,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A monitor of resources",
+            "homepage": null,
             "id": 365005377,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T19:36:59Z",
+            "open_issues": 534,
             "owner": "aristocratos",
             "repo": "btop",
-            "stars": 34278
+            "stars": 34284,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:58:29.222Z"
         },
@@ -118,12 +172,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Terminal bandwidth utilization tool",
+            "homepage": null,
             "id": 206874323,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-01T01:34:33Z",
+            "open_issues": 55,
             "owner": "imsnif",
             "repo": "bandwhich",
-            "stars": 11927
+            "stars": 11930,
+            "topics": [
+              "bandwidth",
+              "cli",
+              "dashboard",
+              "networking"
+            ]
           },
           "first_seen": "2026-08-28T18:58:29.222Z"
         }
@@ -140,12 +204,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":cherry_blossom: A command-line fuzzy finder",
+            "homepage": "https://junegunn.github.io/fzf/",
             "id": 13807606,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-26T00:07:09Z",
+            "open_issues": 327,
             "owner": "junegunn",
             "repo": "fzf",
-            "stars": 82699
+            "stars": 82702,
+            "topics": [
+              "bash",
+              "cli",
+              "fish",
+              "fzf",
+              "go",
+              "neovim",
+              "tmux",
+              "unix",
+              "vim",
+              "zsh"
+            ]
           },
           "first_seen": "2026-08-28T18:58:29.222Z"
         },
@@ -156,12 +236,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore",
+            "homepage": null,
             "id": 53631945,
             "language": "Rust",
+            "license": "Unlicense",
             "last_commit": "2026-08-04T13:59:44Z",
+            "open_issues": 183,
             "owner": "BurntSushi",
             "repo": "ripgrep",
-            "stars": 67673
+            "stars": 67677,
+            "topics": [
+              "cli",
+              "command-line",
+              "command-line-tool",
+              "gitignore",
+              "grep",
+              "recursively-search",
+              "regex",
+              "ripgrep",
+              "rust",
+              "search"
+            ]
           },
           "first_seen": "2026-08-28T18:58:29.222Z"
         },
@@ -172,12 +268,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A cat(1) clone with wings.",
+            "homepage": null,
             "id": 130464961,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-11T14:39:20Z",
+            "open_issues": 424,
             "owner": "sharkdp",
             "repo": "bat",
-            "stars": 60286
+            "stars": 60289,
+            "topics": [
+              "cli",
+              "command-line",
+              "git",
+              "hacktoberfest",
+              "rust",
+              "syntax-highlighting",
+              "terminal",
+              "tool"
+            ]
           },
           "first_seen": "2026-08-28T18:58:29.222Z"
         },
@@ -188,12 +298,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "tmux source code",
+            "homepage": null,
             "id": 36836475,
             "language": "C",
+            "license": "ISC",
             "last_commit": "2026-08-28T10:46:45Z",
+            "open_issues": 33,
             "owner": "tmux",
             "repo": "tmux",
-            "stars": 48879
+            "stars": 48890,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:58:29.222Z"
         },
@@ -204,12 +319,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple, fast and user-friendly alternative to 'find'",
+            "homepage": null,
             "id": 90793418,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T05:52:24Z",
+            "open_issues": 196,
             "owner": "sharkdp",
             "repo": "fd",
-            "stars": 44234
+            "stars": 44237,
+            "topics": [
+              "cli",
+              "command-line",
+              "filesystem",
+              "hacktoberfest",
+              "regex",
+              "rust",
+              "search",
+              "terminal",
+              "tool"
+            ]
           },
           "first_seen": "2026-08-28T18:58:29.222Z"
         },
@@ -220,12 +350,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A smarter cd command. Supports all major shells.",
+            "homepage": "https://crates.io/crates/zoxide",
             "id": 245166720,
             "language": "Rust",
-            "last_commit": "2026-08-24T18:44:27Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T19:59:29Z",
+            "open_issues": 139,
             "owner": "ajeetdsouza",
             "repo": "zoxide",
-            "stars": 38988
+            "stars": 39000,
+            "topics": [
+              "autojump",
+              "bash",
+              "cli",
+              "command-line",
+              "command-line-tool",
+              "elvish",
+              "fasd",
+              "fish",
+              "fish-shell",
+              "fzf",
+              "hacktoberfest",
+              "jump",
+              "nushell",
+              "powershell",
+              "rust",
+              "shell",
+              "xonsh",
+              "xontrib",
+              "z",
+              "zsh"
+            ]
           },
           "first_seen": "2026-08-28T18:58:29.222Z"
         },
@@ -236,12 +392,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A maintained, feature-rich and performance oriented, neofetch like system information tool.",
+            "homepage": null,
             "id": 340181518,
             "language": "C",
-            "last_commit": "2026-08-28T17:12:58Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T04:23:22Z",
+            "open_issues": 76,
             "owner": "fastfetch-cli",
             "repo": "fastfetch",
-            "stars": 24423
+            "stars": 24424,
+            "topics": [
+              "bsdfetch",
+              "command-line",
+              "fastfetch",
+              "fetch",
+              "flashfetch",
+              "hacktoberfest",
+              "macfetch",
+              "neofetch",
+              "terminal",
+              "winfetch"
+            ]
           },
           "first_seen": "2026-08-28T18:58:29.222Z"
         },
@@ -252,12 +424,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A modern alternative to ls",
+            "homepage": "https://eza.rocks",
             "id": 671832156,
             "language": "Rust",
+            "license": "EUPL-1.2",
             "last_commit": "2026-08-06T19:53:22Z",
+            "open_issues": 438,
             "owner": "eza-community",
             "repo": "eza",
-            "stars": 23069
+            "stars": 23070,
+            "topics": [
+              "color",
+              "command-line",
+              "files",
+              "hacktoberfest",
+              "icons",
+              "ls",
+              "nerd-fonts",
+              "rust",
+              "terminal",
+              "tools"
+            ]
           },
           "first_seen": "2026-08-28T18:58:29.222Z"
         }
@@ -266,15 +454,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T18:58:29.222Z",
+    "last_updated": "2026-08-29T05:02:07.628Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome applications, software, tools, and resources for using OpenBSD as a daily driver.",
+      "homepage": "https://www.openbsd.org/",
       "id": 716654080,
       "language": null,
+      "license": "BSD-3-Clause",
       "last_commit": "2026-01-02T07:20:30Z",
+      "open_issues": 0,
       "owner": "raffaelschneider",
       "repo": "awesome-openbsd-desktop",
-      "stars": 96
+      "stars": 96,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "cybersecurity",
+        "openbsd",
+        "unix"
+      ]
     },
     "original_repository_sha": "ce7172df9c0b0419fd79e7b124545c5a779fe14d",
     "enhanced_repository": "enhansome/enhansome-openbsd-desktop",
