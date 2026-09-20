@@ -40,7 +40,7 @@
             "open_issues": 34,
             "owner": "conformal",
             "repo": "spectrwm",
-            "stars": 1409,
+            "stars": 1410,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:29.222Z"
@@ -63,11 +63,11 @@
             "id": 66150122,
             "language": "C",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-16T16:28:24Z",
-            "open_issues": 1,
+            "last_commit": "2026-09-19T14:18:21Z",
+            "open_issues": 2,
             "owner": "jarun",
             "repo": "nnn",
-            "stars": 21947,
+            "stars": 21962,
             "topics": [
               "android",
               "batch-rename",
@@ -109,7 +109,7 @@
             "open_issues": 85,
             "owner": "gokcehan",
             "repo": "lf",
-            "stars": 9516,
+            "stars": 9517,
             "topics": [
               "file-manager",
               "terminal"
@@ -157,10 +157,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-09-19T10:06:33Z",
-            "open_issues": 542,
+            "open_issues": 541,
             "owner": "aristocratos",
             "repo": "btop",
-            "stars": 34655,
+            "stars": 34669,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:29.222Z"
@@ -181,7 +181,7 @@
             "open_issues": 54,
             "owner": "imsnif",
             "repo": "bandwhich",
-            "stars": 11978,
+            "stars": 11981,
             "topics": [
               "bandwidth",
               "cli",
@@ -210,10 +210,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-09-14T03:16:23Z",
-            "open_issues": 329,
+            "open_issues": 330,
             "owner": "junegunn",
             "repo": "fzf",
-            "stars": 83127,
+            "stars": 83148,
             "topics": [
               "bash",
               "cli",
@@ -242,10 +242,10 @@
             "language": "Rust",
             "license": "Unlicense",
             "last_commit": "2026-08-04T13:59:44Z",
-            "open_issues": 199,
+            "open_issues": 201,
             "owner": "BurntSushi",
             "repo": "ripgrep",
-            "stars": 68430,
+            "stars": 68463,
             "topics": [
               "cli",
               "command-line",
@@ -277,7 +277,7 @@
             "open_issues": 518,
             "owner": "sharkdp",
             "repo": "bat",
-            "stars": 60501,
+            "stars": 60508,
             "topics": [
               "cli",
               "command-line",
@@ -303,11 +303,11 @@
             "id": 36836475,
             "language": "C",
             "license": "ISC",
-            "last_commit": "2026-09-19T06:38:05Z",
-            "open_issues": 52,
+            "last_commit": "2026-09-20T08:38:15Z",
+            "open_issues": 47,
             "owner": "tmux",
             "repo": "tmux",
-            "stars": 49341,
+            "stars": 49380,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:29.222Z"
@@ -324,11 +324,11 @@
             "id": 90793418,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-16T06:43:23Z",
-            "open_issues": 201,
+            "last_commit": "2026-09-20T06:50:44Z",
+            "open_issues": 198,
             "owner": "sharkdp",
             "repo": "fd",
-            "stars": 44482,
+            "stars": 44492,
             "topics": [
               "cli",
               "command-line",
@@ -359,7 +359,7 @@
             "open_issues": 146,
             "owner": "ajeetdsouza",
             "repo": "zoxide",
-            "stars": 39573,
+            "stars": 39615,
             "topics": [
               "autojump",
               "bash",
@@ -397,11 +397,11 @@
             "id": 340181518,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-09-19T10:56:10Z",
-            "open_issues": 92,
+            "last_commit": "2026-09-20T08:41:37Z",
+            "open_issues": 93,
             "owner": "fastfetch-cli",
             "repo": "fastfetch",
-            "stars": 24691,
+            "stars": 24699,
             "topics": [
               "bsdfetch",
               "command-line",
@@ -430,10 +430,10 @@
             "language": "Rust",
             "license": "EUPL-1.2",
             "last_commit": "2026-08-06T19:53:22Z",
-            "open_issues": 453,
+            "open_issues": 454,
             "owner": "eza-community",
             "repo": "eza",
-            "stars": 23311,
+            "stars": 23323,
             "topics": [
               "color",
               "command-line",
@@ -454,7 +454,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T11:26:33.485Z",
+    "last_updated": "2026-09-20T11:45:22.050Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome applications, software, tools, and resources for using OpenBSD as a daily driver.",
