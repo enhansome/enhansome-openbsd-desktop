@@ -34,7 +34,7 @@ A curated list of awesome applications, software, tools, and resources for using
 
 ## Window Managers
 
-* [bspwm](https://github.com/baskerville/bspwm) ⭐ 8,321 | 🐛 348 | 🌐 C | 📅 2026-06-19 - A tiling window manager based on binary space partitioning.
+* [bspwm](https://github.com/baskerville/bspwm) ⭐ 8,322 | 🐛 348 | 🌐 C | 📅 2026-06-19 - A tiling window manager based on binary space partitioning.
 * [spectrwm](https://github.com/conformal/spectrwm) ⭐ 1,410 | 🐛 34 | 🌐 C | 📅 2026-07-20 - A small dynamic tiling window manager for X11.
 * [cwm](https://man.openbsd.org/cwm) - OpenBSD's native calm window manager. Lightweight, keyboard-oriented, and included in base.
 * [fvwm](https://www.fvwm.org/) - A virtual window manager for X11, included in OpenBSD base.
@@ -71,7 +71,7 @@ A curated list of awesome applications, software, tools, and resources for using
 * [Firefox](https://www.mozilla.org/firefox/) - A free and open-source web browser developed by Mozilla.
 * [LibreWolf](https://librewolf.net/) - A privacy-focused Firefox fork with telemetry removed and uBlock Origin included.
 * [Chromium](https://www.chromium.org/) - An open-source browser project. Supports VA-API hardware acceleration on OpenBSD.
-* [Ungoogled Chromium](https://github.com/ungoogled-software/ungoogled-chromium) ⭐ 27,843 | 🐛 182 | 🌐 Python | 📅 2026-10-01 - Chromium with Google services and telemetry removed. VA-API supported.
+* [Ungoogled Chromium](https://github.com/ungoogled-software/ungoogled-chromium) ⭐ 27,853 | 🐛 185 | 🌐 Python | 📅 2026-10-01 - Chromium with Google services and telemetry removed. VA-API supported.
 * [Iridium](https://iridiumbrowser.de/) - A privacy-focused Chromium-based browser.
 * [Lynx](https://lynx.browser.org/) - A highly configurable text-based web browser.
 * [w3m](https://w3m.sourceforge.net/) - A text-based web browser and pager.
@@ -86,8 +86,8 @@ A curated list of awesome applications, software, tools, and resources for using
 
 ## File Managers
 
-* [nnn](https://github.com/jarun/nnn) ⭐ 22,031 | 🐛 1 | 🌐 C | 📅 2026-10-01 - A tiny, lightning fast terminal file manager.
-* [lf](https://github.com/gokcehan/lf) ⭐ 9,529 | 🐛 82 | 🌐 Go | 📅 2026-10-01 - A terminal file manager written in Go, inspired by ranger.
+* [nnn](https://github.com/jarun/nnn) ⭐ 22,035 | 🐛 1 | 🌐 C | 📅 2026-10-01 - A tiny, lightning fast terminal file manager.
+* [lf](https://github.com/gokcehan/lf) ⭐ 9,533 | 🐛 79 | 🌐 Go | 📅 2026-10-01 - A terminal file manager written in Go, inspired by ranger.
 * [PCManFM](https://github.com/lxde/pcmanfm) ⭐ 252 | 🐛 35 | 🌐 C | 📅 2026-02-03 - A lightweight file manager with tabbed browsing.
 * [Thunar](https://docs.xfce.org/xfce/thunar/start) - A modern file manager for Xfce.
 * [Dolphin](https://apps.kde.org/dolphin/) - KDE's feature-rich file manager.
@@ -117,8 +117,8 @@ A curated list of awesome applications, software, tools, and resources for using
 
 ## System Monitoring
 
-* [btop](https://github.com/aristocratos/btop) ⭐ 34,820 | 🐛 559 | 🌐 C++ | 📅 2026-09-30 - A modern resource monitor with a sleek interface.
-* [bandwhich](https://github.com/imsnif/bandwhich) ⭐ 11,992 | 🐛 56 | 🌐 Rust | 📅 2026-08-01 - Terminal bandwidth utilization tool.
+* [btop](https://github.com/aristocratos/btop) ⭐ 34,832 | 🐛 559 | 🌐 C++ | 📅 2026-09-30 - A modern resource monitor with a sleek interface.
+* [bandwhich](https://github.com/imsnif/bandwhich) ⭐ 11,993 | 🐛 56 | 🌐 Rust | 📅 2026-08-01 - Terminal bandwidth utilization tool.
 * [top](https://man.openbsd.org/top) - Display and update information about the top CPU processes, included in base.
 * [systat](https://man.openbsd.org/systat) - Display system statistics, included in base.
 * [htop](https://htop.dev/) - An interactive process viewer for Unix systems.
@@ -139,14 +139,14 @@ A curated list of awesome applications, software, tools, and resources for using
 
 ## Miscellaneous Tools
 
-* [fzf](https://github.com/junegunn/fzf) ⭐ 83,341 | 🐛 332 | 🌐 Go | 📅 2026-09-30 - A command-line fuzzy finder.
-* [ripgrep](https://github.com/BurntSushi/ripgrep) ⭐ 68,756 | 🐛 201 | 🌐 Rust | 📅 2026-08-04 - A fast line-oriented search tool (rg).
-* [bat](https://github.com/sharkdp/bat) ⭐ 60,622 | 🐛 529 | 🌐 Rust | 📅 2026-10-01 - A cat clone with syntax highlighting.
-* [tmux](https://github.com/tmux/tmux/wiki) ⭐ 49,603 | 🐛 46 | 🌐 C | 📅 2026-10-01 - A terminal multiplexer for managing multiple terminal sessions.
-* [fd](https://github.com/sharkdp/fd) ⭐ 44,610 | 🐛 198 | 🌐 Rust | 📅 2026-09-24 - A simple, fast alternative to find.
-* [zoxide](https://github.com/ajeetdsouza/zoxide) ⭐ 39,813 | 🐛 151 | 🌐 Rust | 📅 2026-09-28 - A smarter cd command.
-* [fastfetch](https://github.com/fastfetch-cli/fastfetch) ⭐ 24,846 | 🐛 98 | 🌐 C | 📅 2026-10-01 - A fast system information tool (replaces archived neofetch).
-* [eza](https://github.com/eza-community/eza) ⭐ 23,437 | 🐛 462 | 🌐 Rust | 📅 2026-08-06 - A modern replacement for ls.
+* [fzf](https://github.com/junegunn/fzf) ⭐ 83,355 | 🐛 332 | 🌐 Go | 📅 2026-09-30 - A command-line fuzzy finder.
+* [ripgrep](https://github.com/BurntSushi/ripgrep) ⭐ 68,776 | 🐛 201 | 🌐 Rust | 📅 2026-08-04 - A fast line-oriented search tool (rg).
+* [bat](https://github.com/sharkdp/bat) ⭐ 60,634 | 🐛 534 | 🌐 Rust | 📅 2026-10-01 - A cat clone with syntax highlighting.
+* [tmux](https://github.com/tmux/tmux/wiki) ⭐ 49,621 | 🐛 42 | 🌐 C | 📅 2026-10-02 - A terminal multiplexer for managing multiple terminal sessions.
+* [fd](https://github.com/sharkdp/fd) ⭐ 44,621 | 🐛 204 | 🌐 Rust | 📅 2026-10-01 - A simple, fast alternative to find.
+* [zoxide](https://github.com/ajeetdsouza/zoxide) ⭐ 39,830 | 🐛 152 | 🌐 Rust | 📅 2026-10-01 - A smarter cd command.
+* [fastfetch](https://github.com/fastfetch-cli/fastfetch) ⭐ 24,870 | 🐛 97 | 🌐 C | 📅 2026-10-02 - A fast system information tool (replaces archived neofetch).
+* [eza](https://github.com/eza-community/eza) ⭐ 23,452 | 🐛 464 | 🌐 Rust | 📅 2026-08-06 - A modern replacement for ls.
 * [starship](https://starship.rs/) - A minimal, fast, customizable shell prompt.
 
 ## Desktop Setup Guides
@@ -184,4 +184,4 @@ Feel free to fork this repository, add your contributions, and send a pull reque
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
