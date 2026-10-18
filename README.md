@@ -34,7 +34,7 @@ A curated list of awesome applications, software, tools, and resources for using
 
 ## Window Managers
 
-* [bspwm](https://github.com/baskerville/bspwm) ⭐ 8,330 | 🐛 349 | 🌐 C | 📅 2026-06-19 - A tiling window manager based on binary space partitioning.
+* [bspwm](https://github.com/baskerville/bspwm) ⭐ 8,329 | 🐛 349 | 🌐 C | 📅 2026-06-19 - A tiling window manager based on binary space partitioning.
 * [spectrwm](https://github.com/conformal/spectrwm) ⭐ 1,410 | 🐛 34 | 🌐 C | 📅 2026-07-20 - A small dynamic tiling window manager for X11.
 * [cwm](https://man.openbsd.org/cwm) - OpenBSD's native calm window manager. Lightweight, keyboard-oriented, and included in base.
 * [fvwm](https://www.fvwm.org/) - A virtual window manager for X11, included in OpenBSD base.
@@ -71,7 +71,7 @@ A curated list of awesome applications, software, tools, and resources for using
 * [Firefox](https://www.mozilla.org/firefox/) - A free and open-source web browser developed by Mozilla.
 * [LibreWolf](https://librewolf.net/) - A privacy-focused Firefox fork with telemetry removed and uBlock Origin included.
 * [Chromium](https://www.chromium.org/) - An open-source browser project. Supports VA-API hardware acceleration on OpenBSD.
-* [Ungoogled Chromium](https://github.com/ungoogled-software/ungoogled-chromium) ⭐ 28,018 | 🐛 181 | 🌐 Python | 📅 2026-10-16 - Chromium with Google services and telemetry removed. VA-API supported.
+* [Ungoogled Chromium](https://github.com/ungoogled-software/ungoogled-chromium) ⭐ 28,030 | 🐛 181 | 🌐 Python | 📅 2026-10-16 - Chromium with Google services and telemetry removed. VA-API supported.
 * [Iridium](https://iridiumbrowser.de/) - A privacy-focused Chromium-based browser.
 * [Lynx](https://lynx.browser.org/) - A highly configurable text-based web browser.
 * [w3m](https://w3m.sourceforge.net/) - A text-based web browser and pager.
@@ -86,8 +86,8 @@ A curated list of awesome applications, software, tools, and resources for using
 
 ## File Managers
 
-* [nnn](https://github.com/jarun/nnn) ⭐ 22,082 | 🐛 1 | 🌐 C | 📅 2026-10-07 - A tiny, lightning fast terminal file manager.
-* [lf](https://github.com/gokcehan/lf) ⭐ 9,565 | 🐛 84 | 🌐 Go | 📅 2026-10-14 - A terminal file manager written in Go, inspired by ranger.
+* [nnn](https://github.com/jarun/nnn) ⭐ 22,085 | 🐛 7 | 🌐 C | 📅 2026-10-07 - A tiny, lightning fast terminal file manager.
+* [lf](https://github.com/gokcehan/lf) ⭐ 9,563 | 🐛 84 | 🌐 Go | 📅 2026-10-14 - A terminal file manager written in Go, inspired by ranger.
 * [PCManFM](https://github.com/lxde/pcmanfm) ⭐ 255 | 🐛 35 | 🌐 C | 📅 2026-02-03 - A lightweight file manager with tabbed browsing.
 * [Thunar](https://docs.xfce.org/xfce/thunar/start) - A modern file manager for Xfce.
 * [Dolphin](https://apps.kde.org/dolphin/) - KDE's feature-rich file manager.
@@ -117,7 +117,7 @@ A curated list of awesome applications, software, tools, and resources for using
 
 ## System Monitoring
 
-* [btop](https://github.com/aristocratos/btop) ⭐ 35,011 | 🐛 586 | 🌐 C++ | 📅 2026-10-16 - A modern resource monitor with a sleek interface.
+* [btop](https://github.com/aristocratos/btop) ⭐ 35,025 | 🐛 588 | 🌐 C++ | 📅 2026-10-16 - A modern resource monitor with a sleek interface.
 * [bandwhich](https://github.com/imsnif/bandwhich) ⭐ 12,007 | 🐛 57 | 🌐 Rust | 📅 2026-08-01 - Terminal bandwidth utilization tool.
 * [top](https://man.openbsd.org/top) - Display and update information about the top CPU processes, included in base.
 * [systat](https://man.openbsd.org/systat) - Display system statistics, included in base.
@@ -139,14 +139,14 @@ A curated list of awesome applications, software, tools, and resources for using
 
 ## Miscellaneous Tools
 
-* [fzf](https://github.com/junegunn/fzf) ⭐ 83,616 | 🐛 333 | 🌐 Go | 📅 2026-10-17 - A command-line fuzzy finder.
-* [ripgrep](https://github.com/BurntSushi/ripgrep) ⭐ 69,176 | 🐛 217 | 🌐 Rust | 📅 2026-08-04 - A fast line-oriented search tool (rg).
-* [bat](https://github.com/sharkdp/bat) ⭐ 60,811 | 🐛 565 | 🌐 Rust | 📅 2026-10-14 - A cat clone with syntax highlighting.
-* [tmux](https://github.com/tmux/tmux/wiki) ⭐ 49,878 | 🐛 35 | 🌐 C | 📅 2026-10-17 - A terminal multiplexer for managing multiple terminal sessions.
-* [fd](https://github.com/sharkdp/fd) ⭐ 44,772 | 🐛 220 | 🌐 Rust | 📅 2026-10-17 - A simple, fast alternative to find.
-* [zoxide](https://github.com/ajeetdsouza/zoxide) ⭐ 40,155 | 🐛 152 | 🌐 Rust | 📅 2026-10-14 - A smarter cd command.
-* [fastfetch](https://github.com/fastfetch-cli/fastfetch) ⭐ 25,052 | 🐛 105 | 🌐 C | 📅 2026-10-17 - A fast system information tool (replaces archived neofetch).
-* [eza](https://github.com/eza-community/eza) ⭐ 23,583 | 🐛 465 | 🌐 Rust | 📅 2026-08-06 - A modern replacement for ls.
+* [fzf](https://github.com/junegunn/fzf) ⭐ 83,629 | 🐛 335 | 🌐 Go | 📅 2026-10-17 - A command-line fuzzy finder.
+* [ripgrep](https://github.com/BurntSushi/ripgrep) ⭐ 69,211 | 🐛 216 | 🌐 Rust | 📅 2026-08-04 - A fast line-oriented search tool (rg).
+* [bat](https://github.com/sharkdp/bat) ⭐ 60,828 | 🐛 566 | 🌐 Rust | 📅 2026-10-17 - A cat clone with syntax highlighting.
+* [tmux](https://github.com/tmux/tmux/wiki) ⭐ 49,895 | 🐛 37 | 🌐 C | 📅 2026-10-18 - A terminal multiplexer for managing multiple terminal sessions.
+* [fd](https://github.com/sharkdp/fd) ⭐ 44,781 | 🐛 219 | 🌐 Rust | 📅 2026-10-18 - A simple, fast alternative to find.
+* [zoxide](https://github.com/ajeetdsouza/zoxide) ⭐ 40,168 | 🐛 153 | 🌐 Rust | 📅 2026-10-18 - A smarter cd command.
+* [fastfetch](https://github.com/fastfetch-cli/fastfetch) ⭐ 25,061 | 🐛 105 | 🌐 C | 📅 2026-10-17 - A fast system information tool (replaces archived neofetch).
+* [eza](https://github.com/eza-community/eza) ⭐ 23,593 | 🐛 466 | 🌐 Rust | 📅 2026-08-06 - A modern replacement for ls.
 * [starship](https://starship.rs/) - A minimal, fast, customizable shell prompt.
 
 ## Desktop Setup Guides
@@ -184,4 +184,4 @@ Feel free to fork this repository, add your contributions, and send a pull reque
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
