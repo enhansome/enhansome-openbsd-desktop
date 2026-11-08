@@ -67,7 +67,7 @@
             "open_issues": 1,
             "owner": "jarun",
             "repo": "nnn",
-            "stars": 22112,
+            "stars": 22111,
             "topics": [
               "android",
               "batch-rename",
@@ -109,7 +109,7 @@
             "open_issues": 79,
             "owner": "gokcehan",
             "repo": "lf",
-            "stars": 9590,
+            "stars": 9591,
             "topics": [
               "file-manager",
               "terminal"
@@ -160,7 +160,7 @@
             "open_issues": 618,
             "owner": "aristocratos",
             "repo": "btop",
-            "stars": 35277,
+            "stars": 35295,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:29.222Z"
@@ -181,7 +181,7 @@
             "open_issues": 58,
             "owner": "imsnif",
             "repo": "bandwhich",
-            "stars": 12050,
+            "stars": 12054,
             "topics": [
               "bandwidth",
               "cli",
@@ -213,7 +213,7 @@
             "open_issues": 333,
             "owner": "junegunn",
             "repo": "fzf",
-            "stars": 84055,
+            "stars": 84072,
             "topics": [
               "bash",
               "cli",
@@ -242,10 +242,10 @@
             "language": "Rust",
             "license": "Unlicense",
             "last_commit": "2026-10-27T18:31:31Z",
-            "open_issues": 226,
+            "open_issues": 225,
             "owner": "BurntSushi",
             "repo": "ripgrep",
-            "stars": 69859,
+            "stars": 69893,
             "topics": [
               "cli",
               "command-line",
@@ -273,11 +273,11 @@
             "id": 130464961,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-07T03:35:08Z",
+            "last_commit": "2026-11-08T08:24:11Z",
             "open_issues": 563,
             "owner": "sharkdp",
             "repo": "bat",
-            "stars": 61217,
+            "stars": 61231,
             "topics": [
               "cli",
               "command-line",
@@ -304,10 +304,10 @@
             "language": "C",
             "license": "ISC",
             "last_commit": "2026-11-06T15:33:19Z",
-            "open_issues": 64,
+            "open_issues": 68,
             "owner": "tmux",
             "repo": "tmux",
-            "stars": 50192,
+            "stars": 50212,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:29.222Z"
@@ -328,7 +328,7 @@
             "open_issues": 205,
             "owner": "sharkdp",
             "repo": "fd",
-            "stars": 45102,
+            "stars": 45117,
             "topics": [
               "cli",
               "command-line",
@@ -355,11 +355,11 @@
             "id": 245166720,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-07T12:16:08Z",
-            "open_issues": 159,
+            "last_commit": "2026-11-08T02:51:28Z",
+            "open_issues": 156,
             "owner": "ajeetdsouza",
             "repo": "zoxide",
-            "stars": 40488,
+            "stars": 40507,
             "topics": [
               "autojump",
               "bash",
@@ -401,7 +401,7 @@
             "open_issues": 123,
             "owner": "fastfetch-cli",
             "repo": "fastfetch",
-            "stars": 25290,
+            "stars": 25302,
             "topics": [
               "bsdfetch",
               "command-line",
@@ -433,7 +433,7 @@
             "open_issues": 479,
             "owner": "eza-community",
             "repo": "eza",
-            "stars": 23813,
+            "stars": 23822,
             "topics": [
               "color",
               "command-line",
@@ -454,7 +454,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T13:28:33.251Z",
+    "last_updated": "2026-11-08T13:48:04.124Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome applications, software, tools, and resources for using OpenBSD as a daily driver.",
