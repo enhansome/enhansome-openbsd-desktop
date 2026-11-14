@@ -40,7 +40,7 @@
             "open_issues": 34,
             "owner": "conformal",
             "repo": "spectrwm",
-            "stars": 1415,
+            "stars": 1416,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:29.222Z"
@@ -67,7 +67,7 @@
             "open_issues": 1,
             "owner": "jarun",
             "repo": "nnn",
-            "stars": 22123,
+            "stars": 22122,
             "topics": [
               "android",
               "batch-rename",
@@ -160,7 +160,7 @@
             "open_issues": 613,
             "owner": "aristocratos",
             "repo": "btop",
-            "stars": 35380,
+            "stars": 35392,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:29.222Z"
@@ -181,7 +181,7 @@
             "open_issues": 58,
             "owner": "imsnif",
             "repo": "bandwhich",
-            "stars": 12085,
+            "stars": 12065,
             "topics": [
               "bandwidth",
               "cli",
@@ -213,7 +213,7 @@
             "open_issues": 333,
             "owner": "junegunn",
             "repo": "fzf",
-            "stars": 84201,
+            "stars": 84196,
             "topics": [
               "bash",
               "cli",
@@ -245,7 +245,7 @@
             "open_issues": 226,
             "owner": "BurntSushi",
             "repo": "ripgrep",
-            "stars": 69936,
+            "stars": 69944,
             "topics": [
               "cli",
               "command-line",
@@ -274,10 +274,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-11-10T05:54:40Z",
-            "open_issues": 566,
+            "open_issues": 568,
             "owner": "sharkdp",
             "repo": "bat",
-            "stars": 61260,
+            "stars": 61251,
             "topics": [
               "cli",
               "command-line",
@@ -303,11 +303,11 @@
             "id": 36836475,
             "language": "C",
             "license": "ISC",
-            "last_commit": "2026-11-13T11:14:36Z",
+            "last_commit": "2026-11-14T08:38:19Z",
             "open_issues": 41,
             "owner": "tmux",
             "repo": "tmux",
-            "stars": 50313,
+            "stars": 50306,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:29.222Z"
@@ -324,11 +324,11 @@
             "id": 90793418,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-12T17:42:34Z",
-            "open_issues": 208,
+            "last_commit": "2026-11-14T05:30:50Z",
+            "open_issues": 206,
             "owner": "sharkdp",
             "repo": "fd",
-            "stars": 45068,
+            "stars": 45059,
             "topics": [
               "cli",
               "command-line",
@@ -356,10 +356,10 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-11-08T02:51:28Z",
-            "open_issues": 157,
+            "open_issues": 158,
             "owner": "ajeetdsouza",
             "repo": "zoxide",
-            "stars": 40598,
+            "stars": 40589,
             "topics": [
               "autojump",
               "bash",
@@ -397,11 +397,11 @@
             "id": 340181518,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-11-10T10:48:35Z",
+            "last_commit": "2026-11-14T04:46:10Z",
             "open_issues": 127,
             "owner": "fastfetch-cli",
             "repo": "fastfetch",
-            "stars": 25352,
+            "stars": 25364,
             "topics": [
               "bsdfetch",
               "command-line",
@@ -433,7 +433,7 @@
             "open_issues": 486,
             "owner": "eza-community",
             "repo": "eza",
-            "stars": 23906,
+            "stars": 23899,
             "topics": [
               "color",
               "command-line",
@@ -454,7 +454,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T14:51:43.382Z",
+    "last_updated": "2026-11-14T13:45:10.936Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome applications, software, tools, and resources for using OpenBSD as a daily driver.",
